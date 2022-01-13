@@ -1,0 +1,10 @@
+#Python Program to find largest element in an array
+
+#take a array
+arr=[1,4,6,8,4,3,5,87,6]
+
+#use max opration
+a=max(arr)
+
+#print array
+print(" maximum of array is = ",a)
